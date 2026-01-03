@@ -1,6 +1,10 @@
 # LG TV Ad Block List
 
 A curated hosts list to block advertisements and tracking domains on LG Smart TVs.
+This was tested on webOS version 03.53.45 but should work on other versions as well.
+
+Let me know if you suggest any additional entries through submission of pull requests.
+
 
 ## Overview
 
