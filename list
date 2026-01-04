@@ -43,7 +43,6 @@
 0.0.0.0 eic.lgchhomeapp.lgtvcommon.com
 0.0.0.0 eic-ngfts.tv.wiselg.com
 0.0.0.0 eic.sports.lgtviot.com
-0.0.0.0 eic-gfts.nextlgsdp.com
 0.0.0.0 ngfts.nextlgsdp.com
 0.0.0.0 eic.recommend.lgtvcommon.com
 0.0.0.0 eic.api.lgtviot.com
@@ -63,4 +62,12 @@
 0.0.0.0 pt.rdx2.lgtvsdp.com
 0.0.0.0 pt.info.lgsmartad.com
 0.0.0.0 pt.ad.lgsmartad.com
-0.0.0.0 pt.nextlgsdp.com
+0.0.0.0 pt.lgrecommends.lgappstv.com
+
+
+# additional entries that may be useful but that break some functionality
+# uncomment at your own risk
+
+# these lines break the LG Content Store functionality and app updates
+# 0.0.0.0 eic-gfts.nextlgsdp.com 
+# 0.0.0.0 pt.nextlgsdp.com
